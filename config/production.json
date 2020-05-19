@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Violet Evergarden",
+  "mongoUri": "mongodb+srv://damir:1111@cluster0-fppip.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
